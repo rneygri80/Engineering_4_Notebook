@@ -5,9 +5,6 @@ This is where all my stuff will go!
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
     import math
 
-
-
-
     def myFunction(a,b,c):
         return b**2-4*a*c
 
@@ -58,8 +55,18 @@ This is where all my stuff will go!
     print("Quotient:\t\t" + doMath(a,b,4))
     print("Modulo:\t\t" + doMath(a,b,5))
 ### Lessons learned
-## Hello Python
-### Code
+## Dice Roller
+### Code 
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/diceroller3.py]
+    from random import randint
+
+    print ("Do you want to roll? (Y)es or (N)o")
+    answer = input()
+    while answer.lower()[0] == "y":
+        num1 = randint(1,6)
+        print ("You rolled a", num1)
+        print ("Do you want to roll? (Y)es or (N)o")
+        answer = input()
 ### Lessons learned
 ## Hello GIt
 ### Code
