@@ -68,6 +68,11 @@ This is where all my stuff will go!
         print ("Do you want to roll? (Y)es or (N)o")
         answer = input()
 ### Lessons learned
-## Hello GIt
+## Hello Python
 ### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/lesson00.py]
+    str = "Hello World!"
+
+    for x in range(0,10):
+        print (str)
 ### Lessons leadrned
