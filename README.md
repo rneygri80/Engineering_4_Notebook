@@ -3,3 +3,12 @@ This is where all my stuff will go!
 ## Quadratic Solover
 ### Code 
 ### lessons learned
+## Calculator 
+### Code
+### Lessons learned
+## Hello Python
+### Code
+### Lessons learned
+## Hello GIt
+### Code
+### Lessons leadrned
