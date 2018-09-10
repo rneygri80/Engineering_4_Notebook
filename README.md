@@ -2,7 +2,7 @@
 This is where all my stuff will go!
 ## Quadratic Solover
 ### Code 
-##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/calc.py]
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
     import math
 
 
@@ -33,7 +33,7 @@ This is where all my stuff will go!
 ### lessons learned
 ## Calculator 
 ### Code
-#####
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/calc.py]
     a = input("Type a number")
     b = input("type a second number")
  
