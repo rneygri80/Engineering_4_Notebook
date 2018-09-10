@@ -3,7 +3,7 @@ This is where all my stuff will go!
 ## Quadratic Solover
 ### Code 
 ##### (https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/calc.py)
-##### [.../blob/master/Python/calc.py]
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/calc.py]
     import math
 
 
