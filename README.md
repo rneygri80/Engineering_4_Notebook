@@ -90,7 +90,7 @@ This is where all my stuff will go!
     print("Quotient:\t\t" + doMath(a,b,4))
     print("Modulo:\t\t" + doMath(a,b,5))
 ### Lessons learned
-    The calculator alowed us as the users to input 2 numbers that would then be added, subtracted, divided, and multiplied. At first our code didn't allow for us to input a number but after trouble shooting we fixed it, then we had to figure out how to make the numbers round which we easily found code for by googling. 
+The calculator alowed us as the users to input 2 numbers that would then be added, subtracted, divided, and multiplied. At first our code didn't allow for us to input a number but after trouble shooting we fixed it, then we had to figure out how to make the numbers round which we easily found code for by googling. 
 ## Dice Roller
 ### Code 
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/diceroller3.py]
