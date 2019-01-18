@@ -3,10 +3,11 @@ This is where all my stuff will go!
 ## Headless
 ### Code
 ### Lessons Learned
-For the Headless assignment we had to create a graph that showed the x value of the accelerometer, and then had to 
-## GPIO-Pins I2C
+For the Headless assignment we had to create a graph that showed the x value of the accelerometer, and then had to make it work with a battery for its external power source. We had trouble creating code that created the graph but then foud some resources on google as well as help from others in class to create code to allow it to run on a battery. 
+## GPIO-Pins  
 ### Code
 ### Lessons Learned
+
 ## GPIO-Pins Flask
 ### Code
 ### Lessons Learned
