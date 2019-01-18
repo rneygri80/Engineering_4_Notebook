@@ -3,6 +3,7 @@ This is where all my stuff will go!
 ## Headless
 ### Code
 ### Lessons Learned
+For the Headless assignment we had to create a graph that showed the x value of the accelerometer, and then had to 
 ## GPIO-Pins I2C
 ### Code
 ### Lessons Learned
