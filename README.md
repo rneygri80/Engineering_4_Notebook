@@ -4,16 +4,18 @@ This is where all my stuff will go!
 ### Code
 ### Lessons Learned
 For the Headless assignment we had to create a graph that showed the x value of the accelerometer, and then had to make it work with a battery for its external power source. We had trouble creating code that created the graph but then foud some resources on google as well as help from others in class to create code to allow it to run on a battery. 
-## GPIO-Pins  
+## GPIO-Pins I2C
 ### Code
 ### Lessons Learned
-
+For this assigment we had display the x, y, and z values using an accelerometer. 
 ## GPIO-Pins Flask
 ### Code
 ### Lessons Learned
+For this assigment we had to create an html page that allowed us to use buttons to control an LED to turn on and off. We had issues as when we hit the button twice it wouldn't turn off we adjusted our code and made it color full as well as being able to control the LED from our phones. 
 ## Hello Flask
 ### Code
 ### Lessons Learned
+
 ## SSH
 ### Code
 ### Lessons Learned
