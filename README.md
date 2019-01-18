@@ -15,13 +15,15 @@ For this assigment we had to create an html page that allowed us to use buttons 
 ## Hello Flask
 ### Code
 ### Lessons Learned
-
+In this assigment we craeted a web page that we coded to say Hello world we didn't have issues completing this assigment.
 ## SSH
 ### Code
 ### Lessons Learned
+Using the Pi Ip address we were able to turn two LEDs on and off which didn't take very long. 
 ## Python
 ### Code
 ### Lessons Learned
+For this assigment we used bash to code 2 LEDs to blink 10 times before automatically turn off. 
 ## Bash
 ### Code
 ### Lessons Learned
