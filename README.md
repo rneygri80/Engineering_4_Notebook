@@ -1,5 +1,38 @@
 # Engineering 4 Notebook
 This is where all my stuff will go!
+## Headless
+### Code
+### Lessons Learned
+## GPIO-Pins I2C
+### Code
+### Lessons Learned
+## GPIO-Pins Flask
+### Code
+### Lessons Learned
+## Hello Flask
+### Code
+### Lessons Learned
+## SSH
+### Code
+### Lessons Learned
+## Python
+### Code
+### Lessons Learned
+## Bash
+### Code
+### Lessons Learned
+## MSP
+### Code
+### Lessons Learned
+## Strings and Loops
+### Code
+### Lessons Learned
+## Forks and Clones
+### Code
+### Lessons Learned
+## Hello Git 
+### Code
+### Lessons Learned
 ## Quadratic Solover
 ### Code 
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
