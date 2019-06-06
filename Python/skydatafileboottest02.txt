@@ -1,0 +1,1 @@
+ Altitude = 114.18 m, Accel X=1.17, Accel Y=-0.03, Accel Z=10.4, Mag X=65, Mag Y=-528, Mag Z=-485 Altitude = 114.18 m, Accel X=1.15, Accel Y=-0.04, Accel Z=10.39, Mag X=65, Mag Y=-528, Mag Z=-487 Altitude = 114.77 m, Accel X=1.19, Accel Y=-0.05, Accel Z=10.37, Mag X=64, Mag Y=-529, Mag Z=-4875
