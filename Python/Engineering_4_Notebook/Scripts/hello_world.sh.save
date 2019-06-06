@@ -1,0 +1,8 @@
+#!/bin/bash
+str="Hello World!"
+echo $str
+VARIABLE1=0
+until [  $VARIABLE1 -gt 10 ]
+do
+	echo $VARIABLE1 	let VARIABLE1= VARIABLE1+1;
+done
