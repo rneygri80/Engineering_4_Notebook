@@ -2,10 +2,12 @@
 This is where all my stuff will go!
 ## Headless
 ### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/headless.py]
 ### Lessons Learned
 For the Headless assignment we had to create a graph that showed the x value of the accelerometer, and then had to make it work with a battery for its external power source. We had trouble creating code that created the graph but then foud some resources on google as well as help from others in class to create code to allow it to run on a battery. 
 ## GPIO-Pins I2C
 ### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/I2C%2Cpy.py]
 ### Lessons Learned
 For this assigment we had display the x, y, and z values using an accelerometer. 
 ## GPIO-Pins Flask
