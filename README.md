@@ -9,7 +9,7 @@ For the Headless assignment we had to create a graph that showed the x value of 
 ### Lessons Learned
 For this assigment we had display the x, y, and z values using an accelerometer. 
 ## GPIO-Pins Flask
-### Code
+### Code[https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py]
 from flask import Flask, render_template, request
 import RPi.GPIO as GPIO
 
