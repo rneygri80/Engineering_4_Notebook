@@ -10,6 +10,7 @@ For the Headless assignment we had to create a graph that showed the x value of 
 For this assigment we had display the x, y, and z values using an accelerometer. 
 ## GPIO-Pins Flask
 ### Code
+[https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py]
 ### Lessons Learned
 For this assigment we had to create an html page that allowed us to use buttons to control an LED to turn on and off. We had issues as when we hit the button twice it wouldn't turn off we adjusted our code and made it color full as well as being able to control the LED from our phones. 
 ## Hello Flask
