@@ -23,6 +23,7 @@ In this assigment we craeted a web page that we coded to say Hello world we didn
 Using the Pi Ip address we were able to turn two LEDs on and off which didn't take very long. 
 ## Python
 ### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/gpio_18.py]
 ### Lessons Learned
 For this assigment we used bash to code 2 LEDs to blink 10 times before automatically turn off. 
 ## Bash
