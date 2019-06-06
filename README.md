@@ -27,6 +27,7 @@ Using the Pi Ip address we were able to turn two LEDs on and off which didn't ta
 For this assigment we used bash to code 2 LEDs to blink 10 times before automatically turn off. 
 ## Bash
 ### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Scripts/blink.sh]
 ### Lessons Learned
 
 ## MSP
