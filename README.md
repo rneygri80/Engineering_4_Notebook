@@ -37,10 +37,8 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/split.py]
 ### Lessons Learned
 ## Forks and Clones
-### Code
 ### Lessons Learned
 ## Hello Git 
-### Code
 ### Lessons Learned
  
 ## Quadratic Solover
