@@ -1,5 +1,25 @@
 # Engineering 4 Notebook
+## Hack Your Stuff
+### Code
+#### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/hackyourstuff.py]
+### Lessons Learned
+In this assignment, we had to turn a window alarm on and off using our pi. This assignment brought back some funny memories for us. On the first day of engineering, freshman year, we had been looking at the bins in the back and we ended up triggering one of these window alarms. It took us a solid 10 seconds of screeching beeps before we got it turned off. So for this assignment we tried to minimze the number of times we had to test out the alarm and hear its noise. We struggled the most with the wiring on this assignment. The alarms in the bin were in all sorts of conditions with different parts missing and added. Once we found an alarm that was working we took it apart so it could work with the pi. 
+## Pi Camera
+### Lessons Learned 
+The Pi Camera assignment was a 3 part assignment. The first part simple puts the camera's view onto the monitor. The second part includes effects and must capture images. In the third part we recorded a video and converted it to a mp4 file.
+#### Camera Test 1
+##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/camera_test01.py]
+    from picamera import PiCamera
+    from time import sleep
 
+    camera = PiCamera()
+    camera.start_preview()
+    sleep(5)
+    camera.stop_preview()
+#### Camera Test 2 
+##### Code 
+[https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test02.py]
+#### Camera Test 3
 ## Headless
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/headless.py]
