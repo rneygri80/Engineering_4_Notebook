@@ -45,10 +45,8 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 ## Forks and Clones
 ### Lessons Learned
 ## Hello Git 
-### Code
-##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/lesson00.py]
 ### Lessons Learned
-WE STARTED PYTHON and it went pretty well we had some trouble getting used to the python application and not being able to use a mouse however the coding was not very difficult and was similar to the first lesson of the year.
+WE STARTED PYTHON and now it is time to learn how to push our code to github where we can share it with everyone and access it from anywhere!! The directions were straitforward and we had no issues pushing our first projects.
 ## Quadratic Solover
 ### Code 
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
