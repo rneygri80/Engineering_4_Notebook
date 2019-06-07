@@ -18,16 +18,51 @@ The Pi Camera assignment was a 3 part assignment. The first part simple puts the
     camera.stop_preview()
 #### Camera Test 2 
 ##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test02.py]
+    from picamera import PiCamera
+    from time import sleep
+
+    camera = PiCamera()
+    camera.start_preview()
+
+    x = ['film', 'negative', 'solarize', 'sketch', 'emboss',]
+
+
+    for effect in camera.IMAGE_EFFECTS:
+    
+        camera.image_effect = effect
+        camera.annotate_text = "Effect: %s" % effect
+    
+        sleep(2)
+
+        if effect in x:
+            camera.capture("filename" + str(x.index(effect)) + ".jpg")
+        
+    camera.stop_preview()
+
 Here are some of the images we captured:
 
 https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename1.jpg
 https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename2.jpg
 https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename4.jpg
 #### Camera Test 3
+##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test03.py]
+    from picamera import PiCamera
+    from time import sleep
+
+    camera = PiCamera()
+    camera.start_preview()
+
+    camera.start_recording('home/pi/myvideo.h264')
+
+    sleep(10)
+
+    camera.stop_recording()
+    camera.stop_preview()
+
 Here is the video we took using our Pi Camera:
 
 https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/videotest.mp4
-##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test03.py]
+
 
 ## Headless
 ### Code
