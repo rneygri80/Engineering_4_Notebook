@@ -45,8 +45,10 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 ## Forks and Clones
 ### Lessons Learned
 ## Hello Git 
+### Code
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/lesson00.py]
 ### Lessons Learned
-WE STARTED 
+WE STARTED PYTHON and it went pretty well we had some trouble getting used to the python application and not being able to use a mouse however the coding was not very difficult and was similar to the first lesson of the year.
 ## Quadratic Solover
 ### Code 
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
@@ -120,10 +122,6 @@ The calculator alowed us as the users to input 2 numbers that would then be adde
 Unlike the arduino with the Pi we are able to aply diffrent applications such as mathmatica which we were introduced to in this assigment. For this assigment we had trouble createing the a dice that rolled randomly at first it rolled a six every time. by adding the first line of code it became random we also had trouble printing the number that was rolled because we had it inside the parentheses at first. 
 ## Hello Python
 ### Code
-##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/lesson00.py]
-    str = "Hello World!"
-
-    for x in range(0,10):
-        print (str)
+##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Engineering_4_Notebook/Scripts/hello_world.sh]
 ### Lessons leadrned
 This was our first lesson using a pi and it was very helpful to show similarities with arduino, the lesson was very helpful and we were quick to learn how to code a loop on the Pi. We also were able to souder the raspberry Pi which was intresting as we had only ever soudered wires together.
