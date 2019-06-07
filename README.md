@@ -46,7 +46,7 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 ### Lessons Learned
 ## Hello Git 
 ### Lessons Learned
- 
+WE STARTED 
 ## Quadratic Solover
 ### Code 
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Quadsolver.py]
@@ -75,7 +75,7 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 
 
 ### lessons learned
-
+This lesson we used mathmatica to solve quadratic equetion. At first the code we had written would only multiply the three inputed numbers after trouble shooting it would do the quadratic however even if it was not a quadratic it would say that it was.  
 ## Calculator 
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/calc.py]
