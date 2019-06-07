@@ -38,12 +38,15 @@ For this assigment we used bash to code 2 LEDs to blink 10 times before automati
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/hangman2.py]
 ### Lessons Learned
+We struggled with this assigment as our code did not draw the man corectly and it took us a long time to ajust the code to write it correctly we used google quite a bit and asked people who had already finished. We also had trouble with the computer knowing if the letter typed was in the word however after a while we fixed our code. 
 ## Strings and Loops
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/split.py]
 ### Lessons Learned
+Strings and loops was and excersize of how to print lines in python we had little trouble with this assigment.
 ## Forks and Clones
 ### Lessons Learned
+We created a coolrepo page on github and were able to add some fun facts about ourselves. We forked a page that Jack had created then added our information after we had to clone that page and add it to our own github page.
 ## Hello Git 
 ### Lessons Learned
 WE STARTED PYTHON and now it is time to learn how to push our code to github where we can share it with everyone and access it from anywhere!! The directions were straitforward and we had no issues pushing our first projects.
