@@ -6,7 +6,7 @@
 In this assignment, we had to turn a window alarm on and off using our pi. This assignment brought back some funny memories for us. On the first day of engineering, freshman year, we had been looking at the bins in the back and we ended up triggering one of these window alarms. It took us a solid 10 seconds of screeching beeps before we got it turned off. So for this assignment we tried to minimze the number of times we had to test out the alarm and hear its noise. We struggled the most with the wiring on this assignment. The alarms in the bin were in all sorts of conditions with different parts missing and added. Once we found an alarm that was working we took it apart so it could work with the pi. 
 ## Pi Camera
 ### Lessons Learned 
-The Pi Camera assignment was a 3 part assignment. The first part simple puts the camera's view onto the monitor. The second part includes effects and must capture images. In the third part we recorded a video and converted it to a mp4 file.
+The Pi Camera assignment was a 3 part assignment. The first part simply puts the camera's view onto the monitor. The second part includes effects and must capture images. In the third part we recorded a video and converted it to a mp4 file. We struggled some with Camera Test 2 because we weren't sure whether the camera was looping through all the effects and taking pictures. It was working because it had saved the images it took. One thing we learned here was that with a 2 second delay, looping through all the possiblie effects takes quite a lot of time. Seconds are often longer than we expect them to be.
 #### Camera Test 1
 ##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/camera_test01.py]
     from picamera import PiCamera
@@ -62,7 +62,6 @@ https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename4.
 Here is the video we took using our Pi Camera:
 
 https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/videotest.mp4
-
 
 ## Headless
 ### Code
