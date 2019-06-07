@@ -17,9 +17,18 @@ The Pi Camera assignment was a 3 part assignment. The first part simple puts the
     sleep(5)
     camera.stop_preview()
 #### Camera Test 2 
-##### Code 
-[https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test02.py]
+##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test02.py]
+Here are some of the images we captured:
+
+https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename1.jpg
+https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename2.jpg
+https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/filename4.jpg
 #### Camera Test 3
+Here is the video we took using our Pi Camera:
+
+https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/videotest.mp4
+##### Code [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/camera_test03.py]
+
 ## Headless
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/headless.py]
