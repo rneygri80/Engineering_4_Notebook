@@ -1,5 +1,5 @@
 # Engineering 4 Notebook
-This is where all my stuff will go!
+
 ## Headless
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/headless.py]
@@ -117,6 +117,7 @@ The calculator alowed us as the users to input 2 numbers that would then be adde
         print ("Do you want to roll? (Y)es or (N)o")
         answer = input()
 ### Lessons learned
+Unlike the arduino with the Pi we are able to aply diffrent applications such as mathmatica which we were introduced to in this assigment. For this assigment we had trouble createing the a dice that rolled randomly at first it rolled a six every time. by adding the first line of code it became random we also had trouble printing the number that was rolled because we had it inside the parentheses at first. 
 ## Hello Python
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/lesson00.py]
@@ -125,3 +126,4 @@ The calculator alowed us as the users to input 2 numbers that would then be adde
     for x in range(0,10):
         print (str)
 ### Lessons leadrned
+This was our first lesson using a pi and it was very helpful to show similarities with arduino, the lesson was very helpful and we were quick to learn how to code a loop on the Pi. We also were able to souder the raspberry Pi which was intresting as we had only ever soudered wires together.
