@@ -9,7 +9,7 @@ For the Headless assignment we had to create a graph that showed the x value of 
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/I2C%2Cpy.py]
 ### Lessons Learned
-For this assigment we had display the x, y, and z values using an accelerometer. 
+For this assigment we had display the x, y, and z values using an accelerometer it was our first time using an accelerometer and at first it would not display the data points although it was taking data eventualy we got the right code so it plotted points. 
 ## GPIO-Pins Flask
 ### Code
 [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Flask/gpio/app.py]
@@ -19,21 +19,21 @@ For this assigment we had to create an html page that allowed us to use buttons 
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/Flask/hello_world/app.py]
 ### Lessons Learned
-In this assigment we craeted a web page that we coded to say Hello world we didn't have issues completing this assigment.
+In this assigment we craeted a web page that we coded to say Hello world we only had issues with what the buttons on the web page looked like as well as them resetting after one run.
 ## SSH
 ### Code
 ### Lessons Learned
-Using the Pi Ip address we were able to turn two LEDs on and off which didn't take very long. 
+Using the Pi Ip address app that it gave us we were able to turn two LEDs on and off from a phone after typing very simple code and it was able to work over the wifi signal instead of being concted like in the past which didn't take very long. 
 ## Python
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/gpio_18.py]
 ### Lessons Learned
-For this assigment we used bash to code 2 LEDs to blink 10 times before automatically turn off. 
+For this assigment we used python instead of bash like the previous assignment to code 2 LEDs to blink 10 times before automatically turn off this did not take long as it was similar and the wiring was the same. 
 ## Bash
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Scripts/blink.sh]
 ### Lessons Learned
-
+Bash allowed us to wire LEDs onto a Pi for the first time which was supprisingly easy and similar to arduino we completed the assignment fairly quickly and both stopped after blinking 10 times.
 ## MSP
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/hangman2.py]
@@ -43,7 +43,7 @@ We struggled with this assigment as our code did not draw the man corectly and i
 ### Code
 ##### [https://github.com/cmunro97/Engineering_4_Notebook/blob/master/Python/split.py]
 ### Lessons Learned
-Strings and loops was and excersize of how to print lines in python we had little trouble with this assigment.
+Strings and loops was an excersize of how to print lines in python we had little trouble with this assigment.
 ## Forks and Clones
 ### Lessons Learned
 We created a coolrepo page on github and were able to add some fun facts about ourselves. We forked a page that Jack had created then added our information after we had to clone that page and add it to our own github page.
